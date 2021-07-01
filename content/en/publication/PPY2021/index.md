@@ -1,18 +1,16 @@
 ---
-title: "Effects of language context on executive control in unbalanced bilinguals: An ERPs study"
+title: "The switching between newly learned languages impacts executive control"
 authors:
 - Jiao, L
 - Liu, C
-- de Bruin, A
+- Schwieter, J. W
 - Chen, B
 
 # Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
 
-date: "2020-08-04T00:00:00Z"
-doi: "https://doi.org/10.1111/psyp.13653"
+
+date: "2021-06-27T00:00:00Z"
+doi: "https://doi.org/10.1111/psyp.13888"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -27,10 +25,10 @@ publication_types: ["2"]
 publication: "*Psychophysiology*"
 publication_short: ""
 
-abstract: The influence of the language context on language control has been widely discussed in the bilingualism literature, and there is an increase in studies examining the effect of language context on domain‐general executive control. However, it remains unclear how language contexts affect executive control performance. In the present study, we created single‐ and mixed‐language comprehension contexts. Unbalanced Chinese‐English bilinguals completed a modified flanker task that was interleaved with a single‐language or mixed‐language picture‐word matching task. The effects of language comprehension context on language control were reflected by the N2 and LPC effects. Executive control processes also differed depending on the language comprehension context, with faster behavioral responses and larger N2 but smaller P3 electrophysiological components in the mixed‐language context. Moreover, the LPC amplitude in the mixed‐language context predicted the behavioral performance in the executive control task. These findings suggested that flexible language control during language comprehension altered executive control processes in unbalanced bilinguals.
+abstract: Previous research has explored the relationship between language control and executive control based on performance in bilinguals' skilled languages. However, this relationship between bilingualism and executive control has not been examined at the very initial stage of language learning. In the present study, we trained Chinese speakers to learn words in German and Japanese, two languages with which they had no prior experience. In pre- and post-training, we measured participants' electrophysiological data to investigate how switching between these two newly learned languages affected executive control. We observed that, while lacking the language switching effect in the behavioral data, a flanker task elicited larger N2 and P3 amplitudes in the post-training session when participants were required to switch between German and Japanese compared to when they responded to only German or Japanese. These results provided evidence of language control of newly learned languages on domain-general executive control, specifically at the (very) initial period of language learning. Our findings support the adaptive nature of the relationship between bilingual language control and executive control.
 
 # Summary. An optional shortened abstract.
-summary: The influence of the language context on language control has been widely discussed in the bilingualism literature...
+summary: Previous research has explored the relationship between language control and executive control based on performance in bilinguals' skilled languages...
 
 tags:
 - Source Themes
