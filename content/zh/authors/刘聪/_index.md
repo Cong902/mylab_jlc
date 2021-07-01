@@ -34,7 +34,13 @@ education:
     - course: 发展与教育心理学 硕士
       institution: 华南师范大学
       year: 2016
-    
+btn_project:
+  - 广东外语外贸大学“双语认知与发展实验室”开放课题（BCD202106），自主语言转换中的抑制控制及其认知神经机制，2021.07-2023.07，主持![image](https://user-images.githubusercontent.com/77149500/124059536-d37e1000-da5d-11eb-9914-3c0b58e50416.png)
+  - 青岛市哲学社会科学规划项目, 一带一路背景下文化差异影响语言加工的研究，2020.08-2022.08，主持![image](https://user-images.githubusercontent.com/77149500/124059552-daa51e00-da5d-11eb-862c-3a8d40fbefa3.png)
+  - 英国国家经济和社会研究理事会（ESRC）研究项目（ES/V004220/1），Moving from China to York: How do changes in language experiences modulate bilingual language control?，2021. 06-2023.08，参与![image](https://user-images.githubusercontent.com/77149500/124059444-b47f7e00-da5d-11eb-9552-7302cfecae27.png)
+  - 国家社会科学基金重点项目（19AYY009），语言转换影响双语者抑制控制和转换控制的认知与神经机制研究，2019.01-2022.12，参与![image](https://user-images.githubusercontent.com/77149500/124059476-c3fec700-da5d-11eb-8f66-7b3ea2eae88a.png)
+
+
 email: "congu902@gmail.com"
 superuser: true
 user_groups:
