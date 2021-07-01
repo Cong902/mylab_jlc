@@ -3,7 +3,7 @@ title: "The switching between newly learned languages impacts executive control"
 authors:
 - Jiao, L
 - Liu, C
-- Schwieter, John W
+- Schwieter, J. W
 - Chen, B
 
 # Author notes (optional)
