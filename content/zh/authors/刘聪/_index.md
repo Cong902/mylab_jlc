@@ -3,10 +3,7 @@ title: 刘聪
 role: 副教授
 avatar_filename: avatar.jpg
 bio: 
-interests:
-  - 双语加工
-  - 外语效应
-  - 老年认知
+
 social:
   - icon: envelope
     icon_pack: fas
@@ -23,22 +20,7 @@ social:
 organizations:
   - name: 青岛大学
     url: ""
-education:
-  courses:
-    - course: 心理学 博士
-      institution: 华南师范大学
-      year: 2019
-    - course: 联合培养 博士
-      institution: 宾夕法尼亚州立大学
-      year: 2017-2018
-    - course: 发展与教育心理学 硕士
-      institution: 华南师范大学
-      year: 2016
-btn_project:
-  - 广东外语外贸大学“双语认知与发展实验室”开放课题（BCD202106），自主语言转换中的抑制控制及其认知神经机制，2021.07-2023.07，主持
-  - 青岛市哲学社会科学规划项目, 一带一路背景下文化差异影响语言加工的研究，2020.08-2022.08，主持
-  - 英国国家经济和社会研究理事会（ESRC）研究项目（ES/V004220/1），Moving from China to York - How do changes in language experiences modulate bilingual language control?，2021. 06-2023.08，参与
-  - 国家社会科学基金重点项目（19AYY009），语言转换影响双语者抑制控制和转换控制的认知与神经机制研究，2019.01-2022.12，参与
+
 
 email: "congu902@gmail.com"
 superuser: true
@@ -54,7 +36,7 @@ highlight_name: false
 1. Liu, C., de Bruin, A., Jiao, L., Li, Z., Wang, R. (2021). Second language learning tunes language control network: A longitudinal fMRI study. _Language Cognition and Neuroscience, 36_(4), 462-473.
 2. Liu, C., Jiao, L., Li, Z., Timmer, K., Wang, R. (2021). Language control network adapts to second language learning: A longitudinal rs-fMRI study. _Neuropsychologia, 150._
 3. Liu, C., Jiao, L., Wang, Z., Wang, M., Wang, R., Wu, Y. (2019). Symmetries of bilingual language switch costs in conflicting versus non-conflicting contexts. _Bilingualism: Language and Cognition, 22_(3), 624-636.
-4. Liu, C., Kalinka, T, Jiao, L., Yuan, Y., Wang, R. (2019). The influence of contextual faces on bilingual language control. _Quarterly Journal of Experimental Psychology, 72_(9), 2313-2327.
+4. Liu, C., Kalinka, T., Jiao, L., Yuan, Y., Wang, R. (2019). The influence of contextual faces on bilingual language control. _Quarterly Journal of Experimental Psychology, 72_(9), 2313-2327.
 5. 刘聪, 焦鲁, 孙逊, 王瑞明 (2016). 语言转换对非熟练双语者不同认知控制成分的即时影响. _心理学报, 48_(5), 472-481.
 
 ---
