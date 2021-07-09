@@ -43,7 +43,7 @@ highlight_name: false
 **科研项目：**
 1. 广东外语外贸大学“双语认知与发展实验室”开放课题（BCD202106），自主语言转换中的抑制控制及其认知神经机制，2021.07-2023.07，主持.
 2. 青岛市哲学社会科学规划项目（QDSKL2001098）, 一带一路背景下文化差异影响语言加工的研究，2020.08-2022.08，主持.
-3. 英国国家经济和社会研究理事会（ESRC）研究项目（ES/V004220/1），Moving from China to York: How do changes in language experiences modulate bilingual language control?，2021. 06-2023.08，参与.
+3. 英国国家经济和社会研究理事会（ESRC）研究项目（ES/V004220/1），Moving from China to York: How do changes in language experiences modulate bilingual language control?，2021. 06-2023.08，with Angela De Bruin. https://gtr.ukri.org/projects?ref=ES%2FV004220%2F1#/tabOverview
 4. 国家社会科学基金重点项目（19AYY009），语言转换影响双语者抑制控制和转换控制的认知与神经机制研究，2019.01-2022.12，参与.
 
 ---
