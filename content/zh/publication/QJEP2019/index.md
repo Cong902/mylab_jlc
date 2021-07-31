@@ -2,7 +2,7 @@
 title: "The influence of contextual faces on bilingual language control"
 authors:
  - Liu, C
- - Kalinka, T
+ - Timmer, K
  - Jiao, L
  - Yuan, Y 
  - Wang, R
