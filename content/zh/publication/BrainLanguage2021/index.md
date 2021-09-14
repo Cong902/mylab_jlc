@@ -25,7 +25,7 @@ publication_short: ""
 abstract: The underlying mechanisms that adapt with L2 learning are still poorly understood. The present longitudinal study examined the effects of L2 learning on grey matter structure of Chinese college freshmen majoring in English. Participants were scanned twice, one year apart. Our voxel-based morphometry analyses revealed that gray matter volume (GMV) decreased in the left anterior cingulate cortex (ACC) and right inferior frontal gyrus (IFG) after L2 learning for one year. Critically, these structural adaptations correlated with changes in participants' language control ability across L2 learning. Moreover, age of acquisition of L2 was a significant predictor of volumetric change in the left ACC and L2 proficiency was a significant predictor of volumetric change in the right IFG. Overall, these findings enrich our understanding of the dynamic nature of structural brain adaptations, and the mechanisms these adaptations index, as a function of classroom L2 learning.
 
 # Summary. An optional shortened abstract.
-summary: he underlying mechanisms that adapt with L2 learning are still poorly understood. The present longitudinal study examined the effects of L2 learning on grey matter structure of Chinese college freshmen majoring in English...
+summary: The underlying mechanisms that adapt with L2 learning are still poorly understood. The present longitudinal study examined the effects of L2 learning on grey matter structure of Chinese college freshmen majoring in English...
 
 tags:
 - Source Themes
