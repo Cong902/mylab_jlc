@@ -29,7 +29,7 @@ user_groups:
 highlight_name: false
 ---
    
-   刘聪，1990年生，副教授，硕士生导师。曾赴美国Pennsylvania State University联合培养。主要采用磁共振和脑电等多种认知神经科学研究手段考察语言加工的心理和脑机制，以及语言对思维、决策等社会认知活动的影响机制。同时，也对认知老化和大脑可塑性等前沿科学问题进行探讨。已在《Bilingualism: Language & Cognition》、《Neuropsychologia》、《Language, Cognition and Neuroscience》、《心理学报》等国内外权威学术刊物上发表20余篇论文。担任《Neuropsychologia》、《心理科学进展》等多个学术期刊的审稿人。主持青岛市哲学社会科学规划项目1项，参与国家社会科学基金重大项目、英国国家经济和社会研究委员会(ESRC)项目等多项课题。
+   刘聪，1990年生，副教授，硕士生导师。华南师范大学与美国Pennsylvania State University联合培养博士生。主要采用磁共振和脑电等多种认知神经科学研究手段考察语言加工的心理和脑机制，以及语言对思维、决策等社会认知活动的影响机制。同时，也对认知老化和大脑可塑性等前沿科学问题进行探讨。已在《Bilingualism: Language & Cognition》、《Neuropsychologia》、《Language, Cognition and Neuroscience》、《心理学报》等国内外权威学术刊物上发表20余篇论文。担任《Neuropsychologia》、《心理科学进展》等多个学术期刊的审稿人。主持青岛市哲学社会科学规划项目1项，参与国家社会科学基金重大项目、英国国家经济和社会研究委员会(ESRC)项目等多项课题。
 
 ---
 **代表性论文：**
