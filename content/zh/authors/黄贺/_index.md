@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 硕士生
+role: 2021级硕士生
 
 # Organizations/Affiliations
 organizations:
