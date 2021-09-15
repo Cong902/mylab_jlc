@@ -1,5 +1,5 @@
 ---
-title: "Language control network adapts to second language learning: A longitudinal rs-fMRI study"
+title: "Structural brain changes with second language learning: A longitudinal voxel-based morphometry study"
 authors:
 - Liu, C
 - Jiao, L
