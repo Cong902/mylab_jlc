@@ -1,7 +1,7 @@
 ---
 title: "The influence of bilingual language experience on executive control: An ERPs study"
 authors:
-- Liu, C
+- Jiao, L
 - Zhang, Y
 - Plummer, P
 - Liu, C
