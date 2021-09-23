@@ -24,7 +24,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Psychophysiology*"
+publication: "*Psychophysiology, 57*(11), e13653"
 publication_short: ""
 
 abstract: The influence of the language context on language control has been widely discussed in the bilingualism literature, and there is an increase in studies examining the effect of language context on domain‐general executive control. However, it remains unclear how language contexts affect executive control performance. In the present study, we created single‐ and mixed‐language comprehension contexts. Unbalanced Chinese‐English bilinguals completed a modified flanker task that was interleaved with a single‐language or mixed‐language picture‐word matching task. The effects of language comprehension context on language control were reflected by the N2 and LPC effects. Executive control processes also differed depending on the language comprehension context, with faster behavioral responses and larger N2 but smaller P3 electrophysiological components in the mixed‐language context. Moreover, the LPC amplitude in the mixed‐language context predicted the behavioral performance in the executive control task. These findings suggested that flexible language control during language comprehension altered executive control processes in unbalanced bilinguals.
