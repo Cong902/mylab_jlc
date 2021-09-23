@@ -17,23 +17,23 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+# bio: 
 
-interests:
-- 语言学习
-- 双语认知
+# interests:
+# - 语言学习
+# - 双语认知
 
-education:
-  courses:
-  - course: 心理学 博士
-    institution: 北京师范大学
-    year: 2019
-  - course: 联合培养 博士
-    institution: 匹兹堡大学 
-    year: 2017-2018
-  - course: 发展与教育心理学 硕士
-    institution: 华南师范大学
-    year: 2016
+# education:
+#   courses:
+#   - course: 心理学 博士
+#     institution: 北京师范大学
+#     year: 2019
+#   - course: 联合培养 博士
+#     institution: 匹兹堡大学 
+#     year: 2017-2018
+#   - course: 发展与教育心理学 硕士
+#     institution: 华南师范大学
+#    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -67,3 +67,21 @@ user_groups:
 ---
 
 焦鲁，1992年生，理学博士，青岛大学特聘教授，副教授职称，硕士生导师。2019年毕业于北京师范大学心理学专业，曾赴美国University of Pittsburgh联合培养。主要采用行为实验方法、眼动追踪、ERP等多种技术手段考察语言学习的认知神经机制及其潜在的教学应用价值。同时，也对语言暴力、认知决策等行为的发生机制进行探讨。在Psychophysiology、Neuropsychologia、Journal of Neurolinguistics、Quarterly Journal of Experimental Psychology、心理科学等国内外心理学期刊发表学术论文十余篇。担任International Journal of Bilingualism等多个国际学术期刊审稿人。目前正在开展虚拟现实环境下外语学习的相关研究。
+
+---
+**代表性论文：**
+1. Jiao, L., Liu, C., Schwieter, J. W, Chen, B. (2021). The switching between newly learned languages impacts executive control. _Psychophysiology_, e13888.
+2. Jiao, L., Liu, C., de Bruin, A., & Chen, B. (2020). Effects of language context on executive control in unbalanced bilinguals: An ERPs study. _Psychophysiology, 57_(11), e13653.
+3. Jiao, L., Grundy, J. G., Liu, C., & Chen, B. (2020). Language context modulates executive control in bilinguals: Evidence from language production. _Neuropsychologia, 142_, 107441.
+4. Jiao, L., Zhang, Y., Plummer, P., Liu, C., & Chen, B. (2019). The influence of bilingual language experience on executive control: An ERPs study. _Journal of Neurolinguistics, 51_, 42-52.
+5. Jiao, L., Liu, C., Liang, L., Plummer, P., Perfetti, C. A., & Chen, B. (2019). The contributions of language control to executive functions: From the perspective of bilingual comprehension. _Quarterly Journal of Experimental Psychology, 72_(8), 1984-1997.
+
+---
+**科研项目：**
+1. 主持国家自然科学基金青年项目“基于沉浸式虚拟现实环境的感觉-运动交互对外语词汇学习的影响及其脑机制”（62107024），2022-2025，24万，在研。
+2. 主持中国科学院心理研究所结对共建项目“双语经验影响新语言词汇学习的认知与神经机制”（GJ202004），2021-2023，10万，在研。
+
+---
+**开授课程：**
+
+《ERP原理与技术》；《认知心理学》
