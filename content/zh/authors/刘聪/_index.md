@@ -34,7 +34,7 @@ highlight_name: false
 ---
 **代表性论文：**
 1. Liu, C., Jiao, L., Timmer, K., & Wang, R. (2021). Structural brain changes with second language learning: A longitudinal voxel-based morphometry study. _Brain and Language, 222_, 105015.
-2. Liu, C., Jiao, L., Li, Z., Timmer, K., Wang, R. (2021). Language control network adapts to second language learning: A longitudinal rs-fMRI study. _Neuropsychologia, 150._
+2. Liu, C., Jiao, L., Li, Z., Timmer, K., Wang, R. (2021). Language control network adapts to second language learning: A longitudinal rs-fMRI study. _Neuropsychologia, 150_, 107688.
 3. Liu, C., Jiao, L., Wang, Z., Wang, M., Wang, R., Wu, Y. (2019). Symmetries of bilingual language switch costs in conflicting versus non-conflicting contexts. _Bilingualism: Language and Cognition, 22_(3), 624-636.
 4. Liu, C., Timmer, K., Jiao, L., Yuan, Y., Wang, R. (2019). The influence of contextual faces on bilingual language control. _Quarterly Journal of Experimental Psychology, 72_(9), 2313-2327.
 5. 刘聪, 焦鲁, 孙逊, 王瑞明 (2016). 语言转换对非熟练双语者不同认知控制成分的即时影响. _心理学报, 48_(5), 472-481.
