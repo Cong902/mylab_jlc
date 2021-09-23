@@ -22,7 +22,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Psychophysiology*"
+publication: "*Psychophysiology*, e13888"
 publication_short: ""
 
 abstract: Previous research has explored the relationship between language control and executive control based on performance in bilinguals' skilled languages. However, this relationship between bilingualism and executive control has not been examined at the very initial stage of language learning. In the present study, we trained Chinese speakers to learn words in German and Japanese, two languages with which they had no prior experience. In pre- and post-training, we measured participants' electrophysiological data to investigate how switching between these two newly learned languages affected executive control. We observed that, while lacking the language switching effect in the behavioral data, a flanker task elicited larger N2 and P3 amplitudes in the post-training session when participants were required to switch between German and Japanese compared to when they responded to only German or Japanese. These results provided evidence of language control of newly learned languages on domain-general executive control, specifically at the (very) initial period of language learning. Our findings support the adaptive nature of the relationship between bilingual language control and executive control.
