@@ -4,7 +4,7 @@ authors:
 - Jiao, L
 - Duan, X
 - Liu, C
-- Wang, R 
+- Chen, B 
 
 date: "2021-10-19T00:00:00Z"
 doi: "https://doi.org/10.1016/j.jneuroling.2021.101036"
