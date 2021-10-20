@@ -24,6 +24,8 @@ authors:
 - Wu, Y.
 - Fan, X.
 - Cai, Z.
+- Duan, X.
+- Schwieter, J. W.
 
 date: ""
 doi: ""
