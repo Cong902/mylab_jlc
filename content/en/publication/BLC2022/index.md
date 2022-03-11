@@ -2,9 +2,9 @@
 title: "The Foreign Language Effect on Altruistic Decision Making: Insights from the Framing Effect"
 authors:
 - Liu, C
-- Wang, H 
+- Wang, H
+- Timmer, K 
 - Jiao, L
-- Timmer, K
 
 
 date: "2022-03-11T00:00:00Z"
