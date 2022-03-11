@@ -3,8 +3,9 @@ title: "The Foreign Language Effect on Altruistic Decision Making: Insights from
 authors:
 - Liu, C
 - Wang, H 
-- Jiao, L
 - Timmer, K
+- Jiao, L
+
 
 
 date: "2022-03-11T00:00:00Z"
