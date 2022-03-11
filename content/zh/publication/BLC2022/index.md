@@ -1,16 +1,17 @@
 ---
-title: "The foreign language effect on altruistic decision making: Insights from the framing effect"
+title: "The Foreign Language Effect on Altruistic Decision Making: Insights from the Framing Effect"
 authors:
 - Liu, C
-- Wang, H
-- Timmer, K 
-- Jiao, L 
+- Wang, H 
+- Jiao, L
+- Timmer, K
 
-date: "2022-03-01T00:00:00Z"
+
+date: "2022-03-11T00:00:00Z"
 doi: "https://doi.org/10.1017/S1366728922000128"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-03-01T00:00:00Z"
+publishDate: "2022-03-11T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,12 +20,14 @@ publishDate: "2022-03-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Bilingualism: Language and Cognition,*(in press)"
+publication: "*Bilingualism: Language and Cognition,*(in press)."
 publication_short: ""
 
-abstract: The present study investigated the foreign language effect within an altruistic decision making process. Chinese–English bilinguals made altruistic decisions in their native (L1: Chinese) and second language (L2: English). The decisions were framed in two ways: either as "not to harm" (harm frame) or as "to help" the other person (help frame) at one’s economic cost. Behavioral results suggest that bilinguals might behave more altruistic in the harm frame than the help frame (i.e., framing effect) in their native language but not in their foreign language. Electrophysiological results show that the modulation of the framing effect in the native versus foreign language originated in the early ERP components (N1 and N2) and did not present in the late positive potential (LPP). These findings suggest the foreign language effect most likely results from the reduced emotional reaction in a foreign compared to the native language.
+abstract: The present study investigated the foreign language effect within an altruistic decision making process. Chinese–English bilinguals made altruistic decisions in their native and second language. The decisions were framed in two ways - either as "not to harm" (harm frame) or as "to help" the other person (help frame) at one’s economic cost. Behavioral results suggest that bilinguals might behave more altruistic in the harm frame than the help frame (i.e., framing effect) in their native language but not in their foreign language. Electrophysiological results show that the modulation of the framing effect in the native versus foreign language originated in the early ERP components (N1 and N2) and did not present in the late positive potential (LPP). These findings suggest the foreign language effect most likely results from the reduced emotional reaction in a foreign compared to the native language.
+
+
 # Summary. An optional shortened abstract.
-summary: The present study investigated the foreign language effect within an altruistic decision making process...
+summary: The present study investigated the foreign language effect within an altruistic decision making process..
 
 tags:
 - Source Themes
