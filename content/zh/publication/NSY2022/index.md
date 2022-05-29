@@ -4,7 +4,7 @@ authors:
 - Jiao, L
 - Meng, N
 - Wang, Z
-- Schwieter，J
+- Schwieter, J. W
 - Liu, C
 
 date: "2022-05-21T00:00:00Z"
