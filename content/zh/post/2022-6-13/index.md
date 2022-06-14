@@ -9,4 +9,6 @@ image:
 
 <!--more-->
 
-   祝梦蕊以“Effect of learning context on novel word acquisition: an ERPs study”为题进行报告。该研究使用脑电（ERP）技术，考察了虚拟现实（VR）环境下新词学习与传统图词学习在学习效果及其电生理机制上的差异，
+   祝梦蕊以“Effect of learning context on novel word acquisition: an ERPs study”为题进行报告。该研究使用脑电（ERP）技术，考察了虚拟现实（VR）环境下新词学习与传统图词学习在学习效果及其电生理机制上的差异。
+   实验室鼓励和支持本科生和研究生积极参加学术会议，展示其学术成果，多与国内外同行交流。锻炼学术报告能力，拓宽学术视野，增强科研素养。
+  
