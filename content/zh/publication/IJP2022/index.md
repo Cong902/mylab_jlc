@@ -8,6 +8,15 @@ authors:
 - Zhu, M
 - Liu, C
 
+# Author notes (optional)
+author_notes:
+- 
+- 
+- 
+- 
+- 
+- "Corresponding Author"
+
 date: "2022-1-1T00:00:00Z"
 doi: "https://doi.org/10.1016/j.ijpsycho.2022.06.005"
 
