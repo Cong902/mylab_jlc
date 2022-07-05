@@ -21,7 +21,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Frontiers in Psychology, 4954."
+publication: "*International Journal of Psychophysiology, 178*, 43-50."
 publication_short: ""
 
 abstract: 
