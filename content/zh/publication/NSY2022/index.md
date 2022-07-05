@@ -7,6 +7,15 @@ authors:
 - Schwieter, J. W
 - Liu, C
 
+# Author notes (optional)
+author_notes:
+- 
+- 
+- 
+- 
+- "Corresponding Author"
+
+
 date: "2022-05-21T00:00:00Z"
 doi: "https://doi.org/10.1016/j.neuropsychologia.2022.108273"
 
