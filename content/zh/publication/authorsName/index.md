@@ -28,6 +28,9 @@ authors:
 - Schwieter, J. W.
 - Wang, Z.
 - Meng, N.
+- Gao, Y.
+- Zhu, M.
+- Wang, H.
 
 date: ""
 doi: ""
