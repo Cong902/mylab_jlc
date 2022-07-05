@@ -6,7 +6,12 @@ authors:
 - Timmer, K
 - Jiao, L
 
-
+# Author notes (optional)
+author_notes:
+- 
+- 
+- 
+- "Corresponding Author"
 
 date: "2022-03-11T00:00:00Z"
 doi: "https://doi.org/10.1017/S1366728922000128"
