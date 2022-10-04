@@ -1,7 +1,6 @@
 ---
 title: "The Role of Language Switching During Cross-Talk Between Bilingual Language Control and Domain-General Conflict Monitoring"
 authors:
-
 - Jiao, L
 - Timmer, K
 - Liu, C
