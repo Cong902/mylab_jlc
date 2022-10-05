@@ -6,7 +6,6 @@ authors:
 - 刘聪
 - 沈曼琼
 
-
 date: "2016-03-01T00:00:00Z"
 doi: "http://psybeh.tjnu.edu.cn/CN/abstract/abstract1551.shtml"
 
@@ -23,7 +22,7 @@ publication_types: ["2"]
 publication: "*心理与行为研究, 14*(3), 298-304"
 publication_short: ""
 
-abstract: 
+abstract: 本研究包括两部分，第一部分对双语转换问卷进行修订，用于客观测量双语者的语言转换能力；第二部分采用数字命名任务考察语言转换对双语认知优势发展进程的影响 ...
 
 # Summary. An optional shortened abstract.
 summary: 
