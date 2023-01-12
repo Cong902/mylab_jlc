@@ -3,8 +3,10 @@
   publish = "public"
 
 [build.environment]
-  HUGO_VERSION = "0.97.3"
-  HUGO_ENABLEGITINFO = "true"
+npm install
+npm run make:prepare
+HUGO_VERSION= (latest version of HUGO) npm run serve
+HUGO_ENABLEGITINFO = "true"
 
 [context.production.environment]
   HUGO_ENV = "production"
@@ -19,3 +21,4 @@
   package = "netlify-plugin-hugo-cache-resources"
   [plugins.inputs]
     debug = true
+
