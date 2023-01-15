@@ -1,3 +1,6 @@
+[security.funcs]
+getenv = ['^HUGO_', '^WC_POST_CSS' ]
+
 [build]
   command = "hugo --gc --minify -b $URL"
   publish = "public"
