@@ -94,4 +94,4 @@ disableAliases = true  # Disable aliases when `redirects` is added to the `outpu
     path = "github.com/wowchemy/wowchemy-hugo-modules/wowchemy"
 
 [security]
-getenv = ['^HUGO_', '^WC_']
+getenv = ['^HUGO_', '^WC_POST_CSS']
