@@ -6,7 +6,7 @@ getenv = ['^HUGO_', '^WC_POST_CSS' ]
   publish = "public"
 
 [build.environment]
-  HUGO_VERSION = "0.97.3"
+  HUGO_VERSION = "0.84.3"
   HUGO_ENABLEGITINFO = "true"
 
 [context.production.environment]
