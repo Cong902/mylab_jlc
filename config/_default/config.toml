@@ -5,9 +5,6 @@
 # This file is formatted using TOML syntax - learn more at https://learnxinyminutes.com/docs/toml/
 # Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
 
-[security.funcs]
-getenv = ['^HUGO_', '^WC_POST_CSS' ]
-
 # Title of your site
 title = "脑与语言认知实验室"
 
