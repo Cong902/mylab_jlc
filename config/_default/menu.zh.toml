@@ -3,34 +3,6 @@
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
 
-main:
-  - name: 首页
-    url:  "/"
-    weight: 10
-  - name: 新闻动态
-    url: '#post'
-    weight: 20    
-    
-  - name: 研究人员
-    url: '#people'
-    weight: 30
-
-#  - name: Talks
-#    url: '#talks'
-#    weight: 40
-  - name: 研究成果
-    url: '#publication'
-    weight: 50
-  - name: 联系我们
-    url: '#contact'
-    weight: 60
-
-
-# Navigation Links
-#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
-#     desired widget in your `content/home/` folder.
-#   The weight parameter defines the order that the links will appear in.
-
 [[main]]
   name = "首页"
   url = "/"
