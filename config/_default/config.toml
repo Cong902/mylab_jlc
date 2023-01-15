@@ -94,12 +94,4 @@ disableAliases = true  # Disable aliases when `redirects` is added to the `outpu
     path = "github.com/wowchemy/wowchemy-hugo-modules/wowchemy"
 
 [security]
-  enableInlineShortcodes = false
-  [security.exec]
-    allow = ['^dart-sass-embedded$', '^go$', '^npx$', '^postcss$']
-    osEnv = ['(?i)^((HTTPS?|NO)_PROXY|PATH(EXT)?|APPDATA|TE?MP|TERM)$']
-  [security.funcs]
-    getenv = ['^HUGO_', '^WC_POST_CSS']
-  [security.http]
-    methods = ['(?i)GET|POST']
-    urls = ['.*']
+getenv = ['^HUGO_', '^WC_']
