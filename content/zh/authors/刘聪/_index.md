@@ -64,4 +64,5 @@ highlight_name: false
 ---
 **学术兼职：**
 1. 中国心理学会学习心理学专业委员会委员（2021 ~ 至今）
-2. 《Cognition》、《Bilingualism: Language & Cognition》、《Neuropsychologia》、《International Journal of Bilingualism》、《Cognitive Neurodynamics》、《BMC Neuroscience》、《Brain Sciences》、《心理科学进展》等学术期刊审稿专家
+2. 《Cognition》、《Bilingualism: Language & Cognition》、《Neuropsychologia》、《International Journal of Bilingualism》、《Cognitive Neurodynamics》、《BMC Neuroscience》、《Brain Sciences》、《心理科学进展》、《心理与行为研究》等学术期刊审稿专家
+3. 英国国家经济和社会研究委员会(ESRC)项目通讯评审专家
