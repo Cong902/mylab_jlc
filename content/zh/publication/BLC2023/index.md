@@ -35,11 +35,11 @@ publication_types: ["2"]
 publication: "*Bilingualism: Language and Cognition,* 1-9"
 publication_short: ""
 
-abstract: The present study investigated the foreign language effect within an altruistic decision making process. Chinese–English bilinguals made altruistic decisions in their native and second language. The decisions were framed in two ways - either as "not to harm" (harm frame) or as "to help" the other person (help frame) at one’s economic cost. Behavioral results suggest that bilinguals might behave more altruistic in the harm frame than the help frame (i.e., framing effect) in their native language but not in their foreign language. Electrophysiological results show that the modulation of the framing effect in the native versus foreign language originated in the early ERP components (N1 and N2) and did not present in the late positive potential (LPP). These findings suggest the foreign language effect most likely results from the reduced emotional reaction in a foreign compared to the native language.
+abstract: In this behavioral and electrophysiological study, we compare novel word learning, particularly lexical form acquisition, in an immersive virtual reality (VR) context with a picture-word (PW) association context. We also test whether inhibitory control and age of second language acquisition (L2 AoA) have modulating effects. Chinese speakers of L2 English learned two sets of German words, one set in each of the contexts. Behavioral performance from a subsequent recognition task indicated that responses to VR-learned words were faster than PW-leaned words. ERPs revealed that VR-learned words elicited more negative N100 and N200 waveforms than PW-learned words. Moreover, a significant relationship between L2 AoA and N200 amplitude was observed for VR-learned words. Taken together, the results suggest that the multi-sensory, interactive experience simulated by an immersive VR context has a positive effect on early lexical form acquisition of novel words.
 
 
 # Summary. An optional shortened abstract.
-summary: The present study investigated the foreign language effect within an altruistic decision making process..
+summary: In this behavioral and electrophysiological study, we compare novel word learning, particularly lexical form acquisition, in an immersive virtual reality (VR) context with a picture-word (PW) association contexts..
 
 tags:
 - Source Themes
