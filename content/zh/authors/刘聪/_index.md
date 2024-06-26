@@ -14,9 +14,7 @@ social:
   - icon: researchgate
     icon_pack: ai
     link: https://www.researchgate.net/profile/Cong-Liu-33
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/congu902
+
 organizations:
   - name: 青岛大学
     url: ""
