@@ -1,7 +1,7 @@
 ---
 title: 刘聪
 role: 副教授
-avatar_filename: avatar.jpg
+avatar_filename: avatar.png
 bio: 
 
 social:
