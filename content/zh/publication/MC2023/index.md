@@ -29,7 +29,7 @@ publishDate: "2023-10-04T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Memory & Cognition,52* 302-311"
+publication: "*Memory & Cognition, 52*, 302-311"
 publication_short: ""
 
 abstract: Sleep-dependent consolidation is important for novel word learning, but previous studies have neglected the potential modulating role of learning environments. The present study examines sleep-dependent consolidation effects by comparing learning in a virtual reality (VR) environment and in a traditional picture-word (PW) environment. Two groups of Chinese–English bilinguals were randomly assigned to a VR or PW environment. In both learning environments, they learned novel words in Korean, a language with which they had no prior experience. All participants learned one set of novel words on Day 1 and another set on Day 2. An explicit recognition task and an implicit primed lexical-decision task were employed to measure sleep-dependent consolidation effects from the two environments. Results revealed sleep-dependent consolidation effects in both explicit and implicit measures, but only the primed lexical-decision task showed an influence of learning environment, suggesting that novel words learned via VR had better consolidation. Taken together, our findings suggest that a VR environment that fosters a rich sensory experience facilitates sleep-dependent consolidation effects. We argue that these results provide new evidence and implications for the complementary learning system (CLS) model.
