@@ -16,7 +16,7 @@ author_notes:
 -   
 - "Corresponding Author"
 
-date: "2024-10-04T00:00:00Z"
+date: "2023-10-04T00:00:00Z"
 doi: "https://doi.org/10.3758/s13421-023-01461-z"
 
 # Schedule page publish date (NOT publication's date).
