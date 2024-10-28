@@ -26,7 +26,7 @@ publishDate: "2024-10-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Neurolinguistics,73* 101232"
+publication: "*Journal of Neurolinguistics, 73*, 101232"
 publication_short: ""
 
 abstract: When speaking and listening, bilinguals have the ability to seamlessly switch between their two languages using complex control processes. In the present study, we use electroencephalography (EEG) and time-frequency representation (TFR) analyses to investigate comprehension-based switching between experienced and newly learned languages. Bilinguals performed an auditory picture-word matching task in two experienced languages (Chinese and English) and in two newly learned languages (German and Japanese). The behavioral results revealed asymmetrical switch costs when switching between experienced languages, with larger costs in Chinese than in English, but no costs between the two newly learned languages. The results of the TFR analyses found that for the experienced languages, switch trials induced a power decrease in delta and theta bands, while for the two newly learned languages, switch trials led to a power decrease in the theta and alpha bands. The findings underscore the dynamic nature of language control and provide evidence for the Dynamic Restructuring Model.
