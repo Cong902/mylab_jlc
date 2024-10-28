@@ -3,7 +3,7 @@ title: "Do Accent and Input Modality Modulate Processing of Language Switches in
 authors:
 - Coumel, M
 - Liu, C
--  Trenkic, D
+- Trenkic, D
 - de Bruin, A
 
 
