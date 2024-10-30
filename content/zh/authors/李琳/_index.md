@@ -11,7 +11,7 @@ bio:
 superuser: false
 
 # Role/position
-role: 2018级本科生
+role: 2018级本科生-山东师范大学硕士
 
 # Organizations/Affiliations
 organizations:
@@ -25,7 +25,7 @@ organizations:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
- - 本科生
+ - 毕业生
 
 ---
 
