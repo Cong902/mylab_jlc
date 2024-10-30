@@ -1,9 +1,7 @@
 ---
 # Display name
 title: 穆子亮
-bio: 
-interests:
-  - 双语转换
+
 
 # Username (this should match the folder name)
 authors:
@@ -13,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 2022级硕士生
+role: 2022级硕士生-上海申通公司HR
 
 # Organizations/Affiliations
 organizations:
@@ -27,10 +25,9 @@ email: "lilu15653518002@163.com"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 研究生
+- 毕业生
 
 ---
 
 
 
-邮箱：MZL0123@outlook.com
