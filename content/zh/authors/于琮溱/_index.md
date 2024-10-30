@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 师纪婷
+title: 于琮溱
 bio: 
 
 
@@ -11,7 +11,7 @@ bio:
 superuser: false
 
 # Role/position
-role: 2019级本科生
+role: 2023级本科生
 
 # Organizations/Affiliations
 organizations:
