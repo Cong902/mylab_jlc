@@ -20,6 +20,7 @@ content:
   - Researchers
   - 研究生
   - 本科生
+  - 毕业生
   - Administration
   - Visitors
   - Alumni
