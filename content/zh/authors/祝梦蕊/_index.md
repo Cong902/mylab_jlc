@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 2020级硕士生
+role: 2020级硕士生-西安交通大学博士
 
 # Organizations/Affiliations
 organizations:
@@ -28,7 +28,7 @@ email: "15929251535@163.com"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
- - 研究生
+ - 毕业生
 
 ---
 
