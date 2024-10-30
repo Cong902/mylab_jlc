@@ -1,10 +1,7 @@
 ---
 # Display name
 title: 李璐
-bio: 
-interests:
-  - 语言认知
-  - 双语转换
+
 
 # Username (this should match the folder name)
 authors:
@@ -14,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 2020级硕士生
+role: 2020级硕士生-青岛港湾职业技术学院教师
 
 # Organizations/Affiliations
 organizations:
@@ -28,7 +25,7 @@ email: "lilu15653518002@163.com"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 研究生
+- 毕业生
 
 ---
 
