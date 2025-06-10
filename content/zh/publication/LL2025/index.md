@@ -31,7 +31,7 @@ publication_types: ["2"]
 publication: "*Language Learning*"
 publication_short: ""
 
-abstract: The present study used immersive virtual-reality (iVR) technology to simulate a real-life environment and examined its impact on novel-word learning and lexicalization. On Days 1–3, Chinese-speaking participants learned German words in iVR and traditional picture–word (PW) association contexts. A semantic-priming task was used to measure word lexicalization on Day 4, and again 6 months later. The behavioral findings of an immediate posttest showed a larger semantic-priming effect on iVR-learned words compared to PW-learned words. Moreover, electrophysiological results of the immediate posttest demonstrated significant semantic-priming effects only for iVR-learned words, such that related prime–target pairs elicited enhanced N400 amplitude compared to unrelated prime–target pairs. However, after 6 months, there were no differences between the iVR and PW conditions. The findings support the embodied-cognition theory and dual-coding theory and suggest that a virtual real-life learning context with multimodal enrichment facilitates novel-word learning and lexicalization but that these effects seem to disappear over time.
+abstract: The present study used immersive virtual-reality (iVR) technology to simulate a real-life environment and examined its impact on...
 
 # Summary. An optional shortened abstract.
 summary: The present study used immersive virtual-reality (iVR) technology to simulate a real-life environment and examined its impact on novel-word learning and lexicalization...
