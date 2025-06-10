@@ -31,8 +31,7 @@ publication_types: ["2"]
 publication: "*Language Learning*"
 publication_short: ""
 
-abstract: The present study used immersive virtual-reality (iVR) technology to simulate a real-life environment and examined its impact on...
-
+abstract: 
 # Summary. An optional shortened abstract.
 summary: The present study used immersive virtual-reality (iVR) technology to simulate a real-life environment and examined its impact on novel-word learning and lexicalization...
 
