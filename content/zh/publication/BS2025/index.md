@@ -17,7 +17,7 @@ author_notes:
 - 
 - "Corresponding Author"
 
-date: "2025-02-28T00:00:00Z"
+date: "2025-01-13T00:00:00Z"
 doi: "https://doi.org/10.3390/bs15010060"
 
 # Schedule page publish date (NOT publication's date).
@@ -30,7 +30,7 @@ publishDate: "2025-01-13T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Behavioral Sciences, 2025, 15*(1), 60"
+publication: "*Behavioral Sciences, 15*(1), 60"
 publication_short: ""
 
 abstract: In the present study, we set out to examine the effect of background noise on bilingual language comprehension between a person’s first language (L1) and second language (L2). Language control systems seem to systematically engage in bilingual language production, as evidenced by the presence of switch costs with slower responses to switch trials than repeat trials. However, this systematic engagement does not uniformly apply to comprehension, as the involvement of language control in bilingual comprehension may vary depending on external contexts. In two experiments, we investigated how background noise influenced language switching in comprehension for unbalanced Chinese–English bilinguals. Overall, when comprehending words from two languages, participants experienced significant language switch costs across all conditions, but smaller switch costs were observed in the noise condition than in the quiet condition. However, the symmetrical patterns of switch costs were not modulated by background noise. This is the first study that supports the flexibility of bilingual language comprehension depending on the presence of background noise, expanding the adaptive control hypothesis.
