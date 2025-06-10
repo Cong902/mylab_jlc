@@ -1,5 +1,5 @@
 ---
-title: "Bilingual language control during single-language production: does relocation to a new linguistic environment change it?"
+title: "Bilingual language control during single-language production: does relocation to a new linguistic environment change it"
 authors:
 - de Bruin, A
 - Liu, C
@@ -12,10 +12,12 @@ author_notes:
 - "Corresponding Author"
 - 
 -
-- 
+-
+
+
 
 date: "2025-02-19T00:00:00Z"
-doi: "https://doi.org/10.3390/bs15010060"
+doi: "https://doi.org/10.1098/rsos.241071"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-02-19T00:00:00Z"
@@ -30,11 +32,13 @@ publication_types: ["2"]
 publication: "*Royal Society Open Science, 12*(2), 241071"
 publication_short: ""
 
-abstract: This study investigates the stability and instability of the language control network in bilinguals using longitudinal resting-state functional magnetic resonance imaging (rs-fMRI) data. We compared the language control network of Chinese university students majoring in English with those not, using three other functional networks as controls. Results indicate that the English major group exhibits reduced stability and increased instability in the language control network compared with the non-English major group. This suggests that second language (L2) learning experience may induce adaptive neural changes. Moreover, the coexistence of stability and instability in the language control network appears less modular in the English major group, implying a more integrated response to language experience. Notably, these results were not observed in the control networks. Overall, these findings enhance the understanding of bilingual language control and the impact of L2 learning on neural plasticity.
+abstract: A bilingual’s two languages are simultaneously active and competing for selection, even when only one language is used. To manage this competition, bilinguals apply language control. We examined how bilinguals apply control across two single-language tasks and how this language control might adapt to the language environment bilinguals live in. We conducted a longitudinal study with Mandarin–English bilinguals who moved from China to the UK and a control group staying in China. Participants completed a picture-naming task and a verbal-fluency task twice, approximately seven months apart. We examined language order effects by comparing performance in each language when it was used first versus after the other language. While the L2 benefited from being used second, L1 performance benefited less or even deteriorated after L2 use. This suggests bilinguals proactively applied language control, especially during L2 use, to manage the anticipated language competition from the L1. However, these effects did not change after relocation to the UK, nor did they differ between the groups. This suggests that while language control is a core part of language production, the language environment a bilingual lives in might not have a defining impact on the exact way this language control is applied.
+
 
 # Summary. An optional shortened abstract.
-summary: A bilingual’s two languages are simultaneously active and competing for selection, even when only one language is used...
+summary:  A bilingual’s two languages are simultaneously active and competing for selection...
 
+tags:
 - Source Themes
 featured: false
 
