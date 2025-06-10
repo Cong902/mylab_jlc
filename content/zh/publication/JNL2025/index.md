@@ -13,11 +13,11 @@ author_notes:
 -
 - "Corresponding Author"
 
-date: "2025-2-01T00:00:00Z"
+date: "2025-02-01T00:00:00Z"
 doi: "https://doi.org/10.1016/j.jneuroling.2024.101232"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-2-01T00:00:00Z"
+publishDate: "2025-02-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
