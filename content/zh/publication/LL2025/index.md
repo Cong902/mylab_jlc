@@ -7,6 +7,13 @@ authors:
 - Schwieter, J.W
 - Liu, C
 
+# Author notes (optional)
+author_notes:
+- 
+-
+-
+- "Corresponding Author"
+
 date: "2025-06-01T00:00:00Z"
 doi: "https://doi.org/10.1111/lang.12707"
 
