@@ -30,7 +30,7 @@ publishDate: "2025-02-28T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Bilingualism: Language and Cognition, 27*(1), 128-136"
+publication: "*Bilingualism: Language and Cognition*, 1-13"
 publication_short: ""
 
 abstract: This study investigates the stability and instability of the language control network in bilinguals using longitudinal resting-state functional magnetic resonance imaging (rs-fMRI) data. We compared the language control network of Chinese university students majoring in English with those not, using three other functional networks as controls. Results indicate that the English major group exhibits reduced stability and increased instability in the language control network compared with the non-English major group. This suggests that second language (L2) learning experience may induce adaptive neural changes. Moreover, the coexistence of stability and instability in the language control network appears less modular in the English major group, implying a more integrated response to language experience. Notably, these results were not observed in the control networks. Overall, these findings enhance the understanding of bilingual language control and the impact of L2 learning on neural plasticity.
