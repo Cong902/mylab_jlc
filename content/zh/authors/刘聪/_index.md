@@ -27,7 +27,7 @@ user_groups:
 highlight_name: false
 ---
    
-   刘聪，副教授，硕士生导师。中国心理学会学习心理学专业委员会委员。曾赴美国Pennsylvania State University联合培养。研究方向为学习心理学，主要采用磁共振(MRI)、脑电(ERP)和虚拟现实(VR)等技术考察语言加工与学习的心理和脑机制，以及外语对思维、决策等社会认知活动的影响机制。已在_Brain and Language_、_Language Learning_、_Bilingualism: Language & Cognition_、《心理学报》等国内外权威学术刊物上发表30余篇论文。主持国家社科基金一般项目、教育部人文社科基金青年项目、山东省自然科学基金青年项目和山东省社科基金青年项目等多项课题。
+   刘聪，副教授，硕士生导师。中国心理学会学习心理学专业委员会委员。曾赴美国Pennsylvania State University联合培养。研究方向为学习心理研究，主要采用磁共振(MRI)、脑电(ERP)和虚拟现实(VR)等技术考察语言加工与学习的心理和脑机制，以及外语对思维、决策等社会认知活动的影响机制。已在 _Brain and Language_、_Language Learning_、_Bilingualism: Language & Cognition_、《心理学报》等国内外权威学术刊物上发表30余篇论文。主持国家社科基金一般项目、教育部人文社科基金青年项目、山东省自然科学基金青年项目和山东省社科基金青年项目等多项课题。
 
 ---
 **代表性论文：**
