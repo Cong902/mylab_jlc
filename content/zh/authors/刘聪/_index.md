@@ -39,13 +39,14 @@ highlight_name: false
 
 ---
 **科研项目：**
-1. 山东省自然科学基金青年项目（ZR2025QC350），2025.10-2028.09, 主持.
-2. 教育部人文社科研究青年项目（22YJC190015），2022.03-2025.03，主持.
-3. 山东省社科规划青年项目（22DJYJ06），2022.07-2024.06，主持.
-4. 广东外语外贸大学“双语认知与发展实验室”开放课题（BCD202106），2021.07-2023.07，主持.
-5. 青岛市哲学社会科学规划项目（QDSKL2001098）, 2020.08-2022.08，主持.
-6. 英国经济与社会研究基金会（ESRC）（ES/V004220/1），合作项目，https://gtr.ukri.org/projects?ref=ES%2FV004220%2F1#/tabOverview
-7. 国家社会科学基金重点项目（19AYY009），2019.01-2022.12，参与.
+1. 国家社科基金一般项目（25BYY080），2025.09-2029.12，主持。
+2. 山东省自然科学基金青年项目（ZR2025QC350），2025.10-2028.09, 主持.
+3. 教育部人文社科研究青年项目（22YJC190015），2022.03-2025.03，主持.
+4. 山东省社科规划青年项目（22DJYJ06），2022.07-2024.06，主持.
+5. 广东外语外贸大学“双语认知与发展实验室”开放课题（BCD202106），2021.07-2023.07，主持.
+6. 青岛市哲学社会科学规划项目（QDSKL2001098）, 2020.08-2022.08，主持.
+7. 英国经济与社会研究基金会（ESRC）（ES/V004220/1），合作项目，https://gtr.ukri.org/projects?ref=ES%2FV004220%2F1#/tabOverview
+8. 国家社会科学基金重点项目（19AYY009），2019.01-2022.12，参与.
 
 ---
 **荣誉及奖励：**
@@ -64,5 +65,5 @@ highlight_name: false
 **学术兼职：**
 1. 中国心理学会学习心理学专业委员会委员（2021-）
 2. Editorial Board Member: _Frontiers in Language Sciences_ (2022-)
-3. _Cognition, Brain and Language, Bilingualism: Language and Cognition, Neuropsychologia, Human Brain Mapping, Journal of Neurolinguistics, International Journal of Bilingualism, Cognitive Neurodynamics, BMC Neuroscience, Frontiers in Psychology, Brain Sciences, Cerebral Cortex,_ 《心理科学》，《心理科学进展》，《心理与行为研究》等学术期刊审稿专家
+3. _Cognition, Brain and Language, Bilingualism: Language and Cognition, Neuropsychologia, Human Brain Mapping, Journal of Neurolinguistics, International Journal of Bilingualism, Cognitive Neurodynamics, BMC Neuroscience, Frontiers in Psychology, Brain Sciences, Cerebral Cortex,npj Science of Learning,_《心理科学》，《心理科学进展》，《心理与行为研究》等学术期刊审稿专家
 4. 英国国家经济和社会研究委员会(ESRC)项目通讯评审专家
