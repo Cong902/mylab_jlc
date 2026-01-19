@@ -27,16 +27,16 @@ user_groups:
 highlight_name: false
 ---
    
-   刘聪，副教授，硕士生导师。中国心理学会学习心理学专业委员会委员,中国心理学会语言心理学专业委员会委员。曾赴美国 Pennsylvania State University 联合培养。研究方向为学习心理研究，主要采用磁共振(MRI)、脑电(ERP)和虚拟现实(VR)等技术考察语言加工与学习的心理和脑机制，以及外语对思维、决策等社会认知活动的影响机制。已在 _Brain and Language_、_Language Learning_、_Bilingualism: Language & Cognition_、《心理学报》等国内外权威学术刊物上发表30余篇论文。主持国家社科基金一般项目、教育部人文社科青年项目、山东省自然科学基金青年项目和山东省社科规划青年项目等多项课题。
+   刘聪，副教授，硕士生导师，博士生合作导师，山东省高等学校青年创新团队带头人。中国心理学会学习心理学专业委员会委员，中国心理学会语言心理学专业委员会委员。曾赴美国 Pennsylvania State University 联合培养。研究方向为学习心理研究，主要采用磁共振(MRI)、脑电(ERP)和虚拟现实(VR)等技术考察语言加工与学习的心理和脑机制，以及外语对思维、决策等社会认知活动的影响机制。已在 _Brain and Language_、_Language Learning_、_Bilingualism: Language & Cognition_、《心理学报》等国内外权威学术刊物上发表30余篇论文。主持国家社科基金一般项目、教育部人文社科青年项目、山东省自然科学基金青年项目和山东省社科规划青年项目等多项课题。
 
 ---
 **代表性论文：**
-1. **刘聪**, 刘秋霞，祝梦蕊，焦鲁, 王瑞明 (已录用). 虚拟现实学习环境对外语词汇产出的影响：来自行为和脑电的证据. _心理学报_.
+1. **刘聪**, 刘秋霞, 祝梦蕊, 焦鲁, 王瑞明. (已录用). 虚拟现实学习环境对外语词汇产出的影响：来自行为和脑电的证据. _心理学报_.
 2. Jiao, L., Lin, Y., Schwieter, J. W., & **Liu, C**. (2025). Learning Novel Words in an Immersive Virtual‐Reality Context: Tracking Lexicalization Through Behavioral and Event‐Related‐Potential Measures. _Language Learning_.
 3. **Liu, C.**, Mao, Y., Wang, X., Schwieter, J. W., & Jiao, L. (2024). Sleep-dependent consolidation effects on foreign language word acquisition in a virtual reality environment. _Memory & Cognition, 52_(2), 302-311.
 4. **Liu, C.**, Wang, H., Timmer, K., & Jiao, L. (2022). The foreign language effect on altruistic decision making: Insights from the framing effect. _Bilingualism: Language and Cognition, 25_(5), 890-898.
 5. **Liu, C.**, Jiao, L., Timmer, K., & Wang, R. (2021). Structural brain changes with second language learning: A longitudinal voxel-based morphometry study. _Brain and Language, 222_, 105015.
-6. **刘聪**, 焦鲁, 孙逊, 王瑞明 (2016). 语言转换对非熟练双语者不同认知控制成分的即时影响. _心理学报, 48_(5), 472-481.
+6. **刘聪**, 焦鲁, 孙逊, 王瑞明. (2016). 语言转换对非熟练双语者不同认知控制成分的即时影响. _心理学报, 48_(5), 472-481.
 
 ---
 **科研项目：**
