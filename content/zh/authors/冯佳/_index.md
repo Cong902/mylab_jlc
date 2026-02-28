@@ -2,6 +2,7 @@
 # Display name
 title: 冯佳
 bio: 
+weight: 2
 interests:
   - 跨情境词汇学习
 
