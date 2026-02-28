@@ -3,6 +3,7 @@ title: 刘聪
 role: 副教授
 avatar_filename: avatar.jpg
 bio: 
+weight: 1
 
 social:
   - icon: envelope
