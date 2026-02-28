@@ -2,6 +2,7 @@
 # Display name
 title: 王泽军
 bio: 
+weight: 1
 interests:
   - 第二语言学习
 
