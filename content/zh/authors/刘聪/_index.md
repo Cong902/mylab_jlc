@@ -69,5 +69,5 @@ highlight_name: false
 2. 中国心理学会学习心理学专业委员会委员（2021-）
 3. Editorial Board Member: _Humanities and Social Sciences Communications_ (2026-)
 4. Editorial Board Member: _Frontiers in Language Sciences_ (2022-)
-5. _Cognition, Brain and Language, Bilingualism: Language and Cognition, Neuropsychologia, Human Brain Mapping, Journal of Neurolinguistics, International Journal of Bilingualism, Cognitive Neurodynamics, BMC Neuroscience, Frontiers in Psychology, Brain Sciences, Cerebral Cortex, npj Science of Learning,_《心理科学》，《心理科学进展》，《心理与行为研究》等学术期刊审稿专家
+5. _Cognition, Brain and Language, Bilingualism: Language and Cognition, Neuropsychologia, Human Brain Mapping, Journal of Neurolinguistics, International Journal of Bilingualism, Cognitive Neurodynamics, Trends in Neuroscience and Education, BMC Neuroscience, Frontiers in Psychology, Brain Sciences, Cerebral Cortex, npj Science of Learning,_《心理科学》，《心理科学进展》，《心理与行为研究》等学术期刊审稿专家
 6. 英国国家经济和社会研究委员会(ESRC)项目通讯评审专家
