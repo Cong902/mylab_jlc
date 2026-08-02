@@ -32,8 +32,8 @@ highlight_name: false
 
 ---
 **代表性论文：**
-1. **刘聪**, 刘秋霞, 祝梦蕊, 焦鲁, 王瑞明. (已录用). 虚拟现实学习环境对外语词汇产出的影响：来自行为和脑电的证据. _心理学报_.
-2. Jiao, L., Lin, Y., Schwieter, J. W., & **Liu, C**. (2025). Learning Novel Words in an Immersive Virtual‐Reality Context: Tracking Lexicalization Through Behavioral and Event‐Related‐Potential Measures. _Language Learning_.
+1. **刘聪**, 刘秋霞, 祝梦蕊, 焦鲁, 王瑞明. (2026). 虚拟现实学习环境对外语词汇产出的影响：来自行为和脑电的证据. _心理学报, 58_(6), 1132-1142.
+2. Jiao, L., Lin, Y., Schwieter, J. W., & **Liu, C**. (2026). Learning Novel Words in an Immersive Virtual‐Reality Context: Tracking Lexicalization Through Behavioral and Event‐Related‐Potential Measures. _Language Learning, 76_(1), 5-27.
 3. **Liu, C.**, Mao, Y., Wang, X., Schwieter, J. W., & Jiao, L. (2024). Sleep-dependent consolidation effects on foreign language word acquisition in a virtual reality environment. _Memory & Cognition, 52_(2), 302-311.
 4. **Liu, C.**, Wang, H., Timmer, K., & Jiao, L. (2022). The foreign language effect on altruistic decision making: Insights from the framing effect. _Bilingualism: Language and Cognition, 25_(5), 890-898.
 5. **Liu, C.**, Jiao, L., Timmer, K., & Wang, R. (2021). Structural brain changes with second language learning: A longitudinal voxel-based morphometry study. _Brain and Language, 222_, 105015.
@@ -53,7 +53,7 @@ highlight_name: false
 
 ---
 **荣誉及奖励：**
-1. 青岛大学优秀研究生指导教师（2022）
+1. 青岛大学优秀研究生指导教师（2022,2026）
 2. 青岛大学“优秀本科生毕业论文”，指导教师（2022、2024、2025）
 3. 青岛大学第十七届“挑战杯”大学生课外学术科技作品竞赛优秀指导教师（2021.04)
 4. 国家留学基金委出国留学奖学金（2017）
