@@ -6,7 +6,7 @@ widget: hero
 widget_id: RECENT-POSTS
 headless: true
 weight: 10
-title: "Welcome to Brain, Cognition and Language Learning Lab!"
+title: ""
 subtitle: ""
 design:
   columns: "1"
@@ -14,5 +14,4 @@ hero_media: welcome.jpg
 ---
 ***
 
-The Brain, Cognition and Language Learning Lab is co-directed by Drs. Cong Liu and Lu Jiao. Work in our lab aims to better understand how people learn and process a second language, which includes 1) neural basis of bilingual processing, 2) neural basis of second language learning, and 3) foreign language effects on social decision.
-Our work relies on behavioral paradigms and methods from cognitive neuroscience (including EEG and fMRI).
+The Brain Cognition and Language Learning Laboratory investigates the cognitive and neural mechanisms underlying second language learning and bilingual language processing. The laboratory’s research focuses on three main areas: 1) Cognitive and neural mechanisms of language learning; 2) The influence of language on social cognition, including thinking and decision-making; and 3) Cognitive and neural mechanisms of bilingual language processing. Our work relies on behavioral paradigms and methods from cognitive neuroscience (including EEG, fNIRS, and fMRI).
