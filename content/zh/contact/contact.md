@@ -31,7 +31,7 @@ design:
 
 **邮箱：**
 
-congu902@gmail.com (刘聪)
+congu902@gmail.com (刘聪)<br>
 jiaolu902@gmail.com (焦鲁)
 
 
@@ -39,7 +39,7 @@ jiaolu902@gmail.com (焦鲁)
 
 **办公室：**
 
-德润楼605A
+德润楼605A<br>
 德晖楼301
 
 ***
