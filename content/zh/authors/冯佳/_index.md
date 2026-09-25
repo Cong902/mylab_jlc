@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 2023级硕士生
+role: 2023级硕士生-陆军军医大学RA
 
 # Organizations/Affiliations
 organizations:
@@ -26,7 +26,7 @@ organizations:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 研究生
+- 毕业生
 
 ---
 
