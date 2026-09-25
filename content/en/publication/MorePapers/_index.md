@@ -1,5 +1,5 @@
 ---
-title: For more publications, please visit the Chinese version of this website [https://www.jlclab.com/publication].
+title: For more publications, please visit the Chinese version of this website.
 
 weight: 1
 date: "2026-03-11T00:00:00Z"
