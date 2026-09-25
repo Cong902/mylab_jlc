@@ -2,6 +2,7 @@
 # Display name
 title: 张傲行
 bio: 
+weight: 6
 interests:
 
 
