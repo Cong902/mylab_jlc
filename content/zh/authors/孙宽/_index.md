@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 胡亚楠
+title: 孙宽
 bio: 
 interests:
 
@@ -12,7 +12,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 2022级硕士生
+role: 2026级硕士生
 
 # Organizations/Affiliations
 organizations:
@@ -21,7 +21,7 @@ organizations:
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "huyanancy@163.com"
+
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -32,5 +32,5 @@ user_groups:
 
 
 
-邮箱：huyanancy@163.com
+邮箱：sk_psych2026@163.com
 
