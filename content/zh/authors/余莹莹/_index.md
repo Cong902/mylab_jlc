@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 余莹莹
+title: 栾晓恩
 bio: 
 interests:
-  - 双语转换
+
 
 # Username (this should match the folder name)
 authors:
@@ -12,7 +12,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 2022级硕士生
+role: 2026级硕士生
 
 # Organizations/Affiliations
 organizations:
@@ -21,7 +21,7 @@ organizations:
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "yyuu0026@163.com"
+email: "450964620@qq.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -32,4 +32,4 @@ user_groups:
 
 
 
-邮箱：yyuu0026@163.com
+邮箱：450964620@qq.com
