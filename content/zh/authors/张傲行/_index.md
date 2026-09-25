@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 罗元
+title: 张傲行
 bio: 
 interests:
-  - 统计学习
+
 
 # Username (this should match the folder name)
 authors:
@@ -12,7 +12,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 2023级硕士生
+role: 2026级硕士生
 
 # Organizations/Affiliations
 organizations:
@@ -29,4 +29,4 @@ user_groups:
 - 研究生
 
 ---
-
+Email: 787745406a@gmail.com
