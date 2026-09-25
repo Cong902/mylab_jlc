@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 张静艳
+title: 单文钰
 bio: 
 
 
@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 2024级本科生
+role: 2025级本科生
 
 # Organizations/Affiliations
 organizations:
