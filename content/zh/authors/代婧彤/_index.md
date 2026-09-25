@@ -2,6 +2,7 @@
 # Display name
 title: 代婧彤
 bio: 
+weight: 3
 
 
 # Username (this should match the folder name)
