@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Associate Professor
+role: Professor
 # Organizations/Affiliations
 organizations:
 - name: Qingdao University
@@ -20,20 +20,8 @@ organizations:
 bio: 
 
 interests:
-- Lanuage learning
-- Bilingual cognition
-
-education:
-  courses:
-  - course: PHD in Psychology, 2019
-    institution: Beijing Nornal University
-    year: 2019
-  - course: Joint Training PhD Student, 2017-2018
-    institution: University of Pittsburgh 
-    year: 2017-2018
-  - course: MA in Developmental and Educational Psychology
-    institution: Beijing Nornal University
-    year: 2016
+- Interactive Language learning
+- Bilingualism
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -66,4 +54,4 @@ user_groups:
 
 ---
 
-I am a faculty member of the Department of Psychology in Qingdao University. I got my Doctoral degree at Beijing Normal University. During the period of doctoral study, I worked for one year at University of Pittsburgh as a Visiting Research student. My recent research interests include the cognitive and neural mechanisms of  language learning and the interactions between bilingualism and domain-general cognitive control.
+I am a faculty member in the Department of Psychology at Qingdao University. I received my PhD from Beijing Normal University. During my doctoral studies, I spent one year at the University of Pittsburgh as a visiting research student. My recent research interests include the cognitive and neural mechanisms underlying language learning and the interactions between bilingualism and domain-general cognitive control.
