@@ -1,10 +1,10 @@
 ---
 # Display name
-title: 王泽军
+title: 赵凤磊
 bio: 
 weight: 1
 interests:
-  - 第二语言学习
+ 
 
 # Username (this should match the folder name)
 authors:
@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 2022级硕士生
+role: 2025级硕士生
 
 # Organizations/Affiliations
 organizations:
@@ -22,7 +22,7 @@ organizations:
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "wzjwzj15908058551@163.com"
+email: "2490057563@qq.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -33,4 +33,4 @@ user_groups:
 
 
 
-邮箱：wzjwzj15908058551@163.com
+邮箱：2490057563@qq.com
