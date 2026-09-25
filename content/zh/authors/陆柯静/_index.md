@@ -2,7 +2,7 @@
 # Display name
 title: 陆柯静
 bio: 
-weight: 1
+weight: 2
 
 
 # Username (this should match the folder name)
