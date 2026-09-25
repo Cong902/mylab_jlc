@@ -2,7 +2,7 @@
 # Display name
 title: 唐薪斐
 bio: 
-
+weight: 1
 
 # Username (this should match the folder name)
 
