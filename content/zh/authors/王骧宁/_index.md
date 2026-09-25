@@ -2,7 +2,7 @@
 # Display name
 title: 王骧宁
 bio: 
-
+weight: 7
 
 # Username (this should match the folder name)
 authors:
