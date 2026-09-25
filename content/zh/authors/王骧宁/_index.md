@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 周冠宇
+title: 王骧宁
 bio: 
 
 
@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 2021级本科生
+role: 2025级本科生
 
 # Organizations/Affiliations
 organizations:
@@ -20,7 +20,7 @@ organizations:
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "pkuzgyqdu@163.com"
+
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -31,5 +31,5 @@ user_groups:
 
 
 
-邮箱：pkuzgyqdu@163.com
+
 
