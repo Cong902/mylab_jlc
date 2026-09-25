@@ -1,12 +1,12 @@
 ---
 title: Cong Liu
-role: Associate Professor 
+role: Professor 
 avatar_filename: avatar.jpg
 bio: 
 interests:
-  - Bilingual processing
+  - Embodied Language learning
+  - Bilingualism
   - Foreign language effect
-  - Aging cognition
 social:
   - icon: envelope
     icon_pack: fas
@@ -23,17 +23,7 @@ social:
 organizations:
   - name: Qingdao University
     url: "http://www.qdu.edu.cn/"
-education:
-  courses:
-    - course: PHD in Psychology
-      institution: South China Nornal University
-      year: 2019
-    - course: Joint Training PhD Student
-      institution: Pennsylvania State University
-      year: 2017-2018
-    - course: MA in Developmental and Educational Psychology 
-      institution: South China Nornal University
-      year: 2016
+
     
 email: "congu902@gmail.com"
 superuser: true
@@ -42,4 +32,4 @@ user_groups:
 highlight_name: false
 ---
 
-I am a faculty member of the Department of Psychology in Qingdao University. I got my Doctoral degree at South China Normal University. During the period of doctoral study, I worked for one year at The Pennsylvania State University as a Visiting Research student. My recent research interests include the cognitive and neural mechanisms of bilingual language switching and the foreign language effect on social decision.
+I am a faculty member in the Department of Psychology at Qingdao University. I received my PhD from South China Normal University. During my doctoral studies, I spent one year at The Pennsylvania State University as a visiting research student. My recent research focuses on the cognitive and neural mechanisms underlying language learning and processing, with particular interests in interactive and embodied language learning.
