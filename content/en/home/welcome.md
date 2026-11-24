@@ -12,7 +12,6 @@ design:
   columns: "1"
 hero_media: welcome.jpg
 ---
-***
 <p align="justify">
 The Brain, Cognition and Language Learning Lab aims to advance our understanding of the cognitive and neural mechanisms underlying second language acquisition and bilingual language processing. The lab's research focuses on three major areas:<br>
 1) Cognitive and neural mechanisms of language learning, with a particular emphasis on embodied language learning in interactive contexts involving human–human and human–computer interaction;<br>
