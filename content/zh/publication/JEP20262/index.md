@@ -31,7 +31,7 @@ publication_types: ["2"]
 publication: "*Journal of Experimental Psychology: Learning, Memory, and Cognition*, Advance online publication"
 publication_short: ""
 
-abstract: Megastudies were used in the present research in order to systematically explore the age of acquisition (AoA) effect in second-language (L2) lexical processing and its relationship with the AoA of the corresponding first-language (L1) translation equivalents. To capture different levels of processing, we conducted three experiments using large-scale lexical stimuli: a letter search task for orthographic processing (Experiment 1), a lexical naming task for phonological processing (Experiment 2), and a personal name judgment task for semantic processing (Experiment 3). As a critical supplement to those megastudies, Experiment 4 employed a more typical semantic categorization task (living or nonliving semantic judgment) to induce deeper semantic engagement. The results showed that the L2 AoA effect was reliable and independent of L1 AoA at the orthographic and phonological levels. This pattern further extended to shallow semantic processing, where the L2 AoA effect remained evident regardless of L1 AoA. However, at deeper levels of semantic processing, the effect was modulated by L1 AoA: The L2 AoA effect appeared only when the L1 translation equivalent was acquired early. We propose a theoretical framework, the independence-dependence dual-path model, to help account for the L2 AoA effect. 
+abstract: Megastudies were used in the present research in order to systematically explore the age of acquisition (AoA) effect...
 summary: 
 tags:
 - Source Themes
