@@ -35,18 +35,7 @@ publication: "*International Journal of Bilingualism*, online"
 publication_short: ""
 
 abstract: 
-Aims and Objectives:
-The present study investigated the foreign language effect (FLE) on tolerance of ambiguity (TOA) among bilinguals from an Asian collectivist culture.
-Methodology:
-Chinese-English bilinguals completed a questionnaire measuring levels of TOA either in their first (L1: Chinese) or second language (L2: English), as well as a measure of emotional resonance reduction in Chinese.
-Data and Analysis:
-We performed analysis of variance (ANOVA) to explore whether there was an effect of language (i.e., FLE) on TOA. A bivariate correlation analysis was conducted to explore further whether emotional resonance reduction in the L2 condition is related to the FLE on TOA.
-Findings:
-The results revealed that processing information in the L2 promoted higher scores on TOA than in the L1, particularly on the dimensions of challenging perspectives and unfamiliarity. However, no association was observed between emotional resonance reduction and TOA, which suggests that emotional resonance reduction may not contribute to the FLE on TOA.
-Originality:
-This study was a first attempt to provide evidence that culture may play an important role in modulating the FLE on TOA.
-Significance/Implications:
-Taken together, our findings provide new evidence that functioning in an L2 can affect TOA, contributing to a better understanding of the FLE from a cultural perspective.
+
 # Summary. An optional shortened abstract.
 
 tags:
