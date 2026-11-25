@@ -16,7 +16,7 @@ author_notes:
 - "Corresponding Author"
 
 date: "2026-03-26T00:00:00Z"
-doi: "https://doi.org/10.1017/S1366728925000185"
+doi: "https://doi.org/10.1080/23273798.2026.2650100"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2026-03-26T00:00:00Z"
@@ -28,7 +28,7 @@ publishDate: "2026-03-26T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Language, Cognition and Neuroscience*, 1-13"
+publication: "*Language, Cognition and Neuroscience,41*(5), 579-591"
 publication_short: ""
 
 abstract: In this behavioural and electrophysiological study, we examined the effects of emotional prosody on lexicalisation of newly-learned words in an immersive virtual reality (VR) environment. Chinese speakers learned German words that were accompanied by positive, negative, or neutral emotional prosody. Lexicalisation was subsequently assessed in a semantic priming task while brain activity was simultaneously measured through EEG. The results showed that emotional prosody, regardless of valence, slowed responses to newly learned words relative to those learned with neutral prosody. Critically, words learned under positive prosody conditions elicited larger semantic priming effects in both behavioural performance and the late positive component (LPC). Moreover, the magnitude of this effect was significantly correlated with the participants’ self-reported emotional experience during VR learning. Taken together, our findings suggest that in a VR learning environment, positive prosody facilitates lexicalisation of newly learned words, providing empirical support for the Integrated Cognitive-Affective Theory of Learning with Media.
