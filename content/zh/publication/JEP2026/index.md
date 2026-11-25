@@ -3,8 +3,8 @@ title: "Language control adapts to the immediate but not to the overall language
 authors:
 - Coumel, M
 - Liu, C
-- Trenkic, D.
-- de Bruin, A.
+- Trenkic, D
+- de Bruin, A
 
 
 
