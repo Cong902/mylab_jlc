@@ -31,7 +31,7 @@ publishDate: "2026-01-02T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*International Journal of Bilingualism*, online"
+publication: "*International Journal of Bilingualism*, Advance online publication"
 publication_short: ""
 
 abstract: 
