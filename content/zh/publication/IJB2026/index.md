@@ -1,0 +1,88 @@
+---
+title: "The Foreign Language Effect on Tolerance of Ambiguity in an Asian Collectivist Culture"
+authors:
+- Mao, Y
+- Jiao, L
+- Schwieter, J.W
+- Liu, C
+
+
+
+
+
+
+# Author notes (optional)
+author_notes:
+- 
+-
+-
+- "Corresponding Author"
+
+date: "2026-01-02T00:00:00Z"
+doi: "https://doi.org/10.1177/13670069261492974"
+
+# Schedule page publish date (NOT publication's date).
+publishDate: "2026-01-02T00:00:00Z"
+
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: ["2"]
+
+# Publication name and optional abbreviated publication name.
+publication: "*International Journal of Bilingualism*, online"
+publication_short: ""
+
+abstract: 
+Aims and Objectives:
+The present study investigated the foreign language effect (FLE) on tolerance of ambiguity (TOA) among bilinguals from an Asian collectivist culture.
+Methodology:
+Chinese-English bilinguals completed a questionnaire measuring levels of TOA either in their first (L1: Chinese) or second language (L2: English), as well as a measure of emotional resonance reduction in Chinese.
+Data and Analysis:
+We performed analysis of variance (ANOVA) to explore whether there was an effect of language (i.e., FLE) on TOA. A bivariate correlation analysis was conducted to explore further whether emotional resonance reduction in the L2 condition is related to the FLE on TOA.
+Findings:
+The results revealed that processing information in the L2 promoted higher scores on TOA than in the L1, particularly on the dimensions of challenging perspectives and unfamiliarity. However, no association was observed between emotional resonance reduction and TOA, which suggests that emotional resonance reduction may not contribute to the FLE on TOA.
+Originality:
+This study was a first attempt to provide evidence that culture may play an important role in modulating the FLE on TOA.
+Significance/Implications:
+Taken together, our findings provide new evidence that functioning in an L2 can affect TOA, contributing to a better understanding of the FLE from a cultural perspective.
+# Summary. An optional shortened abstract.
+
+tags:
+- Source Themes
+featured: false
+
+# links:
+# - name: ""
+#   url: ""
+url_pdf: 
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  focal_point: ""
+  preview_only: false
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects: []
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+slides:
+---
